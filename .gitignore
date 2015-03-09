@@ -187,3 +187,26 @@ FakesAssemblies/
 GeneratedArtifacts/
 _Pvt_Extensions/
 ModelManifest.xml
+
+# Umbraco
+Views/
+umbraco/
+umbraco_client/
+macroScripts/
+scripts/
+App_Browsers/
+App_Code/
+App_Data/
+Config/
+bin/
+css/
+masterpages/
+media/
+obj/
+Properties/
+scripts/
+usercontrols/
+xslt/
+IconPicker/default.aspx
+IconPicker/Global.asax
+*.config
